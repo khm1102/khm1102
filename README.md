@@ -15,3 +15,4 @@
 ![Next.JS](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![OpenJDK](https://img.shields.io/badge/java-437291.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+<!-- [![My Skills](https://skillicons.dev/icons?i=react,spring,ts,java&perline=4)](https://skillicons.dev) -->
