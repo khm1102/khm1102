@@ -1,7 +1,8 @@
 # Kim Hyunmin
 
 ## Problem Solving
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagusals1102) ![https://solved.ac/rlagusals1102](https://mazandi.herokuapp.com/api?handle=rlagusals1102&theme=warm)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlagusals1102) [![CodeForces Profile](https://cf.leed.at?id=rlagusals1102)](https://codeforces.com/profile/rlagusals1102)
+<!-- ![https://solved.ac/rlagusals1102](https://mazandi.herokuapp.com/api?handle=rlagusals1102&theme=warm) -->
 <a href="https://solved.ac/profile/rlagusals1102">
 
 ## Learning
